@@ -9,6 +9,10 @@ What is the keyword used to declare a class to be a subclass of another class?
 - subclass
 - interface
 .
+T
+Have you completed this assignment yourself.
++ false
+.
 W
 What is the key word for constant?
 + final
